@@ -1,0 +1,61 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.tab-list {
+    //border-bottom: 1px solid #ccc;
+    padding-right: 0;
+    float: right;
+
+    &__item {
+        display: inline-block;
+        cursor: pointer;
+        max-width: 90px;
+        height: $button-height;
+        padding: 0 24px;
+        line-height: $button-height;
+        text-align: center;
+        color: $color-base;
+        border: 1px solid $color-gray-border;
+        border-radius: $button-border-radius;
+        font-size: $typographic-base-font-size;
+        font-weight: normal;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        @include margin-top(1);
+
+        &:hover,
+        &:focus {
+            color: $color-primary;
+            outline: none;
+            /* ^ shouldn't be necessary down the line*/
+        }
+
+
+    }
+
+    &__item__active {
+        display: inline-block;
+        cursor: pointer;
+        max-width: 90px;
+        height: $button-height;
+        padding: 0 24px;
+        line-height: $button-height;
+        text-align: center;
+        color: $color-primary;
+        border: 1px solid $color-gray-border;
+        border-radius: $button-border-radius;
+        font-size: $typographic-base-font-size;
+        font-weight: normal;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: white;
+        @include margin-top(1);
+
+        &:hover,
+        &:focus {
+            outline: none;
+            /* ^ shouldn't be necessary down the line*/
+        }
+    }
+}

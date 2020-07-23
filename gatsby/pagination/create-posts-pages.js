@@ -19,7 +19,7 @@ module.exports = async (graphql, actions) => {
 
   for (let i = 0; i < numPages; i += 1) {
     createPage({
-      path: i === 0 ? '/' : `/page/${i}`,
+      path: `/page/${i}`, // i === 0 ? '/' : `/page/${i}`, // This is where the index page is set
       component: path.resolve('./src/templates/index-template.js'),
       context: {
         currentPage: i,

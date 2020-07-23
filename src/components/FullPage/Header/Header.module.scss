@@ -1,0 +1,97 @@
+@import '../../../assets/scss/variables';
+@import '../../../assets/scss/mixins';
+
+.header__list {
+    display: grid;
+    grid-template-columns: 5% 5% 20% 40% 25% 5%;
+    justify-items: center;
+    align-items: center;
+    left: 0;
+    width: 100%;
+    //border-bottom: 1px solid #8b0000; //$color-gray-border;
+}
+
+.full-page__header__home {
+    /* border-bottom: gray 0.5px solid; */
+}
+
+.header__list__home-button {
+    display: block;
+    //max-width: 50px;
+    height: $button-height;
+    padding: 0 24px;
+    line-height: $button-height;
+    text-align: center;
+    color: $color-base;
+    border: 1px solid $color-gray-border;
+    border-radius: $button-border-radius;
+    font-size: $typographic-base-font-size;
+    font-weight: normal;
+    margin-left: 5;
+    @include margin-top(1);
+
+    &:hover,
+    &:focus {
+        color: $color-primary;
+        /* ^ shouldn't be necessary down the line*/
+    }
+}
+
+.full-page__header__center-padding {
+    /* border-bottom: gray 0.5px solid; */
+}
+
+.full-page__header__title {
+    /* justify-self: end; */
+    /* border-bottom: gray 0.5px solid; */
+}
+
+.full-page__header__title h1 {
+
+    margin-top: 20px;
+    /*  padding-left: 15px; */
+    padding-right: 10px;
+    padding-bottom: 2px;
+    /* border-left: 2px solid #8b0000; */
+    border-right: 1.5px solid #8b0000;
+    border-bottom: 1.5px solid #8b0000;
+    border-bottom-right-radius: 15px;
+    //border-radius: 15px;
+    /*     border-left: 2px solid #8b0000;
+    border-top: 2px solid #8b0000; */
+    padding-left: 10px;
+    color: #414a4c; //$color-gray;
+    //margin-bottom: 0;
+    margin-right: 0;
+}
+
+.full-page__header__tabs {
+    margin-left: 20px;
+    margin-right: 20px;
+    /* border-bottom: gray 0.5px solid;
+ */
+}
+
+.full-page__header__tabs button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.full-page__header__subsection {
+    padding: 0;
+    padding-left: 0;
+    margin-left: 0;
+    border-bottom: 1.5px solid #8b0000;
+    margin: 0;
+    justify-self: start;
+}
+
+.full-page__header__subsection h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    margin-left: 0;
+    color: gray;
+}

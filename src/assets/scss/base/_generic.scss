@@ -1,12 +1,17 @@
 /** 
  * Generic
  */
+* {
+  box-sizing: border-box;
+}
+
 html {
   font-size: $typographic-root-font-size;
 }
 
 body {
   margin: 0 0 0 calc(100vw - 100%);
+  background-color: #fefefa;
   font-family: $typographic-font-family;
   color: $typographic-base-font-color;
   line-height: $typographic-base-line-height;
@@ -45,7 +50,7 @@ h2 {
 h3 {
   font-size: $typographic-base-font-size * 1.375;
   @include line-height(1);
-  @include margin-top(2);
+  @include margin-top(1); // default: 2
   @include margin-bottom(.5);
 }
 
@@ -120,7 +125,7 @@ ul {
 }
 
 p {
-  @include line-height(1);
+  @include line-height(0.9); // default: 1
   @include margin-bottom(1);
 }
 
@@ -151,7 +156,17 @@ figcaption {
   padding-right: 14px !important;
 }
 
+//
+/* button {
+  &:hover {
+    border: #8b0000 solid 1px;
+  }
+} */
+
+//
+
 @include breakpoint-sm {
+
   figure.float-left,
   figure.float-right {
     max-width: 310px;

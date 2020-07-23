@@ -1,0 +1,23 @@
+path.headline {
+    fill: #98c1d9; //lightblue; //DarkSeaGreen;
+    stroke: white;
+
+    /*#fff*/
+    stroke-width: 0.5px;
+
+    &:hover {
+        fill: #8b0000;
+        stroke: #8b0000;
+    }
+}
+
+path.no-headline {
+    stroke: white;
+    stroke-width: 0.5px;
+
+}
+
+svg {
+    position: relative;
+    //background: black;
+}

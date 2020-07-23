@@ -1,19 +1,24 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'http://www.crane.fyi',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Crane Thoughts',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 10,
+  googleAnalyticsId: 'UA-73379983-2', //
   useKatex: false,
+  // ADD MENU ITEMS HERE
   menu: [
-    {
+    /* {
       label: 'Articles',
       path: '/'
+    }, */
+    {
+      label: 'Projects / Writing',
+      path: '/projects'
     },
     {
       label: 'About me',
@@ -22,12 +27,12 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
-    }
+    },
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Matthew Crane',
+    photo: '/me.png',
+    bio: 'Data Scientist',
     contacts: {
       email: '',
       facebook: '#',

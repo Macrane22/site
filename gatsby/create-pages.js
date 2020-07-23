@@ -9,6 +9,16 @@ const createPostsPages = require('./pagination/create-posts-pages.js');
 const createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
 
+  createPage({
+    path: '/',
+    component: path.resolve('./src/templates/projects-list-template.js')
+  });
+
+  createPage({
+    path: '/resume',
+    component: path.resolve('./src/templates/resume-template.js')
+  });
+
   // 404
   createPage({
     path: '/404',
@@ -25,6 +35,17 @@ const createPages = async ({ graphql, actions }) => {
   createPage({
     path: '/categories',
     component: path.resolve('./src/templates/categories-list-template.js')
+  });
+
+  // Projects list
+  createPage({
+    path: '/projects',
+    component: path.resolve('./src/templates/projects-list-template.js')
+  });
+
+  createPage({
+    path: '/headlines',
+    component: path.resolve('./src/pages/headlines.js')
   });
 
   // Posts and pages from markdown
