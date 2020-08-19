@@ -48,6 +48,8 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/pages/headlines.js')
   });
 
+  /* New page here */
+
   // Posts and pages from markdown
   const result = await graphql(`
     {
@@ -67,6 +69,8 @@ const createPages = async ({ graphql, actions }) => {
       }
     }
   `);
+
+  console.log('result', result);
 
   const { edges } = result.data.allMarkdownRemark;
 

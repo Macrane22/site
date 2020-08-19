@@ -29,6 +29,39 @@ const ProjectsListTemplate = () => {
     <Layout title={`${siteTitle} - ${siteSubtitle}`} >
       <Sidebar/>
         <Page title='Projects / Writing'>
+        {/* Add new items here: */}
+        <div className={feedStyles['feed__item']}>
+          <div className={feedStyles['feed__item-meta']}>
+              {/* <span className={feedStyles['feed__item-meta-divider']} /> */}
+              <span className={feedStyles['feed__item-meta-category']}>
+                <Link to='/' className={feedStyles['feed__item-meta-category-link']}>Jupyter Notebook / Datasci</Link>
+              </span>
+            </div>
+            <h2 className={feedStyles['feed__item-title']}>
+              <Link className={feedStyles['feed__item-title-link']} to='/'>Simple Network Analytics</Link>
+            </h2>
+            <p className={feedStyles['feed__item-description']}>A demonstration of a simple methodology to analyze the community structure 
+            of a network.</p>
+            <Link className={feedStyles['feed__item-readmore']} to='/'>View</Link>
+         </div>
+
+
+
+        <div className={feedStyles['feed__item']}>
+          <div className={feedStyles['feed__item-meta']}>
+              {/* <span className={feedStyles['feed__item-meta-divider']} /> */}
+              <span className={feedStyles['feed__item-meta-category']}>
+                <Link to='/category/ethiopia/' className={feedStyles['feed__item-meta-category-link']}>Datavis</Link>
+              </span>
+            </div>
+            <h2 className={feedStyles['feed__item-title']}>
+              <Link className={feedStyles['feed__item-title-link']} to='/headlines'>Headlines of the World</Link>
+            </h2>
+            <p className={feedStyles['feed__item-description']}>An interactive data visualization displaying news headlines from around the world.</p>
+            <Link className={feedStyles['feed__item-readmore']} to='/headlines'>View</Link>
+         </div>
+
+
           <div className={feedStyles['feed__item']}>
             <div className={feedStyles['feed__item-meta']}>
              {/*  <span className={feedStyles['feed__item-meta-divider']} /> */}
@@ -58,19 +91,7 @@ const ProjectsListTemplate = () => {
           </div>
 
 
-          <div className={feedStyles['feed__item']}>
-          <div className={feedStyles['feed__item-meta']}>
-              {/* <span className={feedStyles['feed__item-meta-divider']} /> */}
-              <span className={feedStyles['feed__item-meta-category']}>
-                <Link to='/category/ethiopia/' className={feedStyles['feed__item-meta-category-link']}>Datavis</Link>
-              </span>
-            </div>
-            <h2 className={feedStyles['feed__item-title']}>
-              <Link className={feedStyles['feed__item-title-link']} to='/headlines'>Headlines of the World</Link>
-            </h2>
-            <p className={feedStyles['feed__item-description']}>An interactive data visualization displaying news headlines from around the world.</p>
-            <Link className={feedStyles['feed__item-readmore']} to='/headlines'>View</Link>
-         </div>
+
       </Page>
     </Layout>
   );
