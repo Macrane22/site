@@ -25,7 +25,6 @@ module.exports = {
         ignore: ['**/.ipynb_checkpoints'],
       },
     },
-    '@gatsby-contrib/gatsby-transformer-ipynb',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
