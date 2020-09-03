@@ -14,5 +14,4 @@ I'm a Bay Area-based data scientist with varied experience in experimentation, v
 
 You can also view my resume [**here**](https://macrane22.github.io/resume/crane_matthew_resume.pdf).
 
-
 </div>

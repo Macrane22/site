@@ -4,7 +4,6 @@ import postStyles from '../Post/Post.module.scss';
 import styles from './Notebook.module.scss';
 import { Link } from 'gatsby';
 import ReactMarkdown from 'react-markdown';
-import html from './test.html';
 
 function createMarkup() {
 
