@@ -2,8 +2,7 @@
 
 exports.createPages = require('./gatsby/create-pages');
 exports.onCreateNode = require('./gatsby/on-create-node');
-exports.onCreateWebpackCOnfig = ({ actions }) => {
-    
+/* exports.onCreateWebpackCOnfig = ({ actions }) => {
     actions.setWebpackConfig(
     {
           rules: [
@@ -30,6 +29,6 @@ exports.onCreateWebpackCOnfig = ({ actions }) => {
                 }
             ],
             '@babel/preset-react'
-        ]  */
+        ]
     })
-};
+}; */
