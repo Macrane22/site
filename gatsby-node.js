@@ -2,26 +2,34 @@
 
 exports.createPages = require('./gatsby/create-pages');
 exports.onCreateNode = require('./gatsby/on-create-node');
-/* exports.onCreateWebpackCOnfig = ({ actions }) => {
-    module: {
-        loaders: [
+exports.onCreateWebpackCOnfig = ({ actions }) => {
+    
+    actions.setWebpackConfig(
+    {
+          rules: [
             {
-                test: /\.md$/,
-                loader: 'babel!react-markdown'
-            }
-        ] */
-/*         rules: [
-            {
-                test: /\.md$/,
-                use: [
-                    {
-                        loader: 'html-loader'
-                    },
-                    {
-                        loader: 'markdown-loader'
+              test: /\.html$/i,
+              loader: 'html-loader',
+            },
+          ],
+
+      Optio
+/*         plugins: [
+          ['transform-runtime', {
+            polyfill: false,
+            regenerator: true
+          }]
+        ],
+        presets: [
+            [
+                '@babel/preset-env',
+                {
+                    targets: {
+                        chrome: 74,
                     }
-                ]
-            }
-        ]; 
-  }
-}; */
+                }
+            ],
+            '@babel/preset-react'
+        ]  */
+    })
+};

@@ -6,7 +6,7 @@ import styles from './Table.module.scss';
 import headlineData from '../../Map/data/headlines/headlines.json';
 
 const Table = () => {
-  console.log('headlineData', headlineData);
+  // console.log('headlineData', headlineData);
 
   const data = useMemo(() => headlineData);
   const columns = useMemo(() => [
@@ -38,7 +38,7 @@ const Table = () => {
     }
   ], []);
 
-  console.log(columns);
+  // console.log(columns);
 
   const tableInstance = useTable({ columns, data });
   console.log('tableInstance', tableInstance);

@@ -7,7 +7,7 @@ const createTagsPages = require('./pagination/create-tags-pages.js');
 const createPostsPages = require('./pagination/create-posts-pages.js');
 
 const createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
 
   createPage({
     path: '/',
@@ -48,7 +48,27 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/pages/headlines.js')
   });
 
+  createPage({
+    path: '/simple-network-analytics',
+    component: path.resolve('./src/pages/simple-network-analytics.js')
+  });
+
+  createRedirect({
+    fromPath: '/',
+    toPath: '/projects', // doesn't seem to work
+    isPermanent: true
+  });
+
   /* New page here */
+  createPage({
+    path: '/congress-polarization',
+    component: path.resolve('./src/components/Notebook/Notebook1.js')
+  });
+
+  createPage({
+    path: '/comm_detection_comparison',
+    component: path.resolve('./src/components/Notebook/Notebook2.js')
+  });
 
   // Posts and pages from markdown
   const result = await graphql(`
@@ -69,8 +89,6 @@ const createPages = async ({ graphql, actions }) => {
       }
     }
   `);
-
-  console.log('result', result);
 
   const { edges } = result.data.allMarkdownRemark;
 

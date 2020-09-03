@@ -36,7 +36,7 @@ class Header extends React.Component { // const Header = (props) => {
     <div className={styles['header__list']}>
         <div></div>
         <div className={styles['full-page__header__home']}>
-            <Link className={styles['header__list__home-button']} to="/">Home</Link>
+            <Link className={styles['header__list__home-button']} to="/projects">Home</Link>
         </div>
         <div className={styles['full-page__header__center-padding']}></div>
         <div className={styles['full-page__header__title']}>

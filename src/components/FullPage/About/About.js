@@ -43,7 +43,7 @@ In a more robust version, a model could help my script correctly identify headli
 class About extends React.Component {
 
   componentDidMount() {
-  /*     const mdpath = './about.md';
+  /* const mdpath = './about.md';
     fetch(mdpath).then(response => {
       return response.text()
     }).then(text => {
@@ -60,7 +60,6 @@ class About extends React.Component {
 
     return (
     <div className={styles['about']}>
-        {/* <article dangerouslySetInnerHTML={{ __html: markdown }}></article> */}
         {<ReactMarkdown source={md}></ReactMarkdown> }
     </div>
     );

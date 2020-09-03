@@ -1,5 +1,7 @@
 'use strict';
 
+const path = require('path');
+
 const siteConfig = require('./config.js');
 const postCssPlugins = require('./postcss-config.js');
 
@@ -15,6 +17,16 @@ module.exports = {
     author: siteConfig.author
   },
   plugins: [
+    'gatsby-plugin-meta-redirect', // doesn't work
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'content',
+        path: path.join(__dirname, 'content'),
+        ignore: ['**/.ipynb_checkpoints'],
+      },
+    },
+    '@gatsby-contrib/gatsby-transformer-ipynb',
     {
       resolve: 'gatsby-source-filesystem',
       options: {

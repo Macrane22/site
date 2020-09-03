@@ -1,11 +1,18 @@
 ---
-title: "About me"
+title: "About me / Contact"
 template: "page"
 socialImage: ""
 ---
+<div style="line-height: 23.4px;">
+<figure  style="float: right; width: 240px;">
+	<img src="../../static/me.jpg" alt="Me">
+	<figcaption></figcaption>
+</figure>
+I'm a Bay Area-based data scientist with varied experience in experimentation, visualization, machine learning, and network analysis. I'm most at home when I'm getting my hands dirty with <b>Python</b> (particularly the <b>numpy</b> / <b>sklearn</b> / <b>pandas</b> scientific stack) and <b>SQL</b> of all flavors. I write a bit of <b>R</b> when I have to. More recently, I've enjoyed working with <b>React.js</b> and <b>d3.js</b> to build data visualizations and small web projects, including this site. On the side I enjoy writing. This site is a space for me to display projects that combine one of more of these interests. I'll update it periodically as I build things that I think are worth sharing.
 
-I'm a Bay Area-based data scientist with  experience in experimentation, modeling, and network analysis, particularly to community detection. I'm most at home working with **Python** (particularly the scientific stack) and **SQL**. More recently, I've begun working with React and D3 to build data visualizations. I also enjoy writing and data visualization, which is much of what appears on this site.
+**I'm currently actively seeking opportunities in Data Science or related fields.** If you're interested in connecting, you can send me an email at **macrane22**\[**AT**\]**gmail**\[**DOT**\]**com**, or add me on [**LinkedIn**](https://www.linkedin.com/in/matthcrane/).
 
-I am currently in the market for a data science position.
+You can also view my resume [**here**](https://macrane22.github.io/resume/crane_matthew_resume.pdf).
 
-You can view my resume [**here**](https://macrane22.github.io/resume/matthew_crane_resume.pdf).
+
+</div>

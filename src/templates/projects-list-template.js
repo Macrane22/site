@@ -29,36 +29,51 @@ const ProjectsListTemplate = () => {
     <Layout title={`${siteTitle} - ${siteSubtitle}`} >
       <Sidebar/>
         <Page title='Projects / Writing'>
+
         {/* Add new items here: */}
+
         <div className={feedStyles['feed__item']}>
           <div className={feedStyles['feed__item-meta']}>
               {/* <span className={feedStyles['feed__item-meta-divider']} /> */}
               <span className={feedStyles['feed__item-meta-category']}>
-                <Link to='/' className={feedStyles['feed__item-meta-category-link']}>Jupyter Notebook / Datasci</Link>
+                <span className={feedStyles['feed__item-meta-category-link']}>Jupyter Notebook / Datasci</span>
               </span>
             </div>
             <h2 className={feedStyles['feed__item-title']}>
-              <Link className={feedStyles['feed__item-title-link']} to='/'>Simple Network Analytics</Link>
+              <Link className={feedStyles['feed__item-title-link']} to='/congress-polarization'>Visualizing Congressional Polarization with Network Analysis</Link>
             </h2>
-            <p className={feedStyles['feed__item-description']}>A demonstration of a simple methodology to analyze the community structure 
-            of a network.</p>
-            <Link className={feedStyles['feed__item-readmore']} to='/'>View</Link>
+            <p className={feedStyles['feed__item-description']}>I use bill cosponsorship data to analyze the partisan divide in the House of Representatives in the last 40 years. Written in a Jupyter notebook with Python, Markdown, and HTML.</p>
+            <Link className={feedStyles['feed__item-readmore']} to='/congress-polarization'>View</Link>
          </div>
 
 
-
-        <div className={feedStyles['feed__item']}>
+         <div className={feedStyles['feed__item']}>
           <div className={feedStyles['feed__item-meta']}>
               {/* <span className={feedStyles['feed__item-meta-divider']} /> */}
               <span className={feedStyles['feed__item-meta-category']}>
-                <Link to='/category/ethiopia/' className={feedStyles['feed__item-meta-category-link']}>Datavis</Link>
+                <span className={feedStyles['feed__item-meta-category-link']}>Datavis</span>
               </span>
             </div>
             <h2 className={feedStyles['feed__item-title']}>
               <Link className={feedStyles['feed__item-title-link']} to='/headlines'>Headlines of the World</Link>
             </h2>
-            <p className={feedStyles['feed__item-description']}>An interactive data visualization displaying news headlines from around the world.</p>
+            <p className={feedStyles['feed__item-description']}>A first attempt at a news aggregator that displays headlines from countries around the world on an interactive map. Built with React, D3, and Python.</p>
             <Link className={feedStyles['feed__item-readmore']} to='/headlines'>View</Link>
+         </div>
+
+
+        <div className={feedStyles['feed__item']}>
+          <div className={feedStyles['feed__item-meta']}>
+              {/* <span className={feedStyles['feed__item-meta-divider']} /> */}
+              <span className={feedStyles['feed__item-meta-category']}>
+                <span className={feedStyles['feed__item-meta-category-link']}>Jupyter Notebook / Datasci</span>
+              </span>
+            </div>
+            <h2 className={feedStyles['feed__item-title']}>
+              <Link className={feedStyles['feed__item-title-link']} to='/comm_detection_comparison'>Benchmarking Community Detection Algorithms in Python</Link>
+            </h2>
+            <p className={feedStyles['feed__item-description']}>An in-depth comparison of six community detection algorithms in Python. Written in a Jupyter notebook with Python, Markdown, and HTML.</p>
+            <Link className={feedStyles['feed__item-readmore']} to='/comm_detection_comparison'>View</Link>
          </div>
 
 
@@ -66,13 +81,13 @@ const ProjectsListTemplate = () => {
             <div className={feedStyles['feed__item-meta']}>
              {/*  <span className={feedStyles['feed__item-meta-divider']} /> */}
               <span className={feedStyles['feed__item-meta-category']}>
-                <Link to='/category/ethiopia/' className={feedStyles['feed__item-meta-category-link']}>Writing</Link>
+                <span className={feedStyles['feed__item-meta-category-link']}>Writing</span>
               </span>
             </div>
             <h2 className={feedStyles['feed__item-title']}>
               <Link className={feedStyles['feed__item-title-link']} to='/category/ethiopia'>Notes from Ethiopia</Link>
             </h2>
-            <p className={feedStyles['feed__item-description']}>9 posts from my trip to Ethiopia in January 2020.</p>
+            <p className={feedStyles['feed__item-description']}>I spent most of January 2020 in Ethiopia. This is a series of posts I wrote on the road about my experiences and mishaps.</p>
             <Link className={feedStyles['feed__item-readmore']} to='/category/ethiopia'>View</Link>
           </div>
 
@@ -80,13 +95,13 @@ const ProjectsListTemplate = () => {
           <div className={feedStyles['feed__item-meta']}>
              {/*  <span className={feedStyles['feed__item-meta-divider']} /> */}
               <span className={feedStyles['feed__item-meta-category']}>
-                <Link to='/category/ethiopia/' className={feedStyles['feed__item-meta-category-link']}>Writing</Link>
+                <span className={feedStyles['feed__item-meta-category-link']}>Writing</span>
               </span>
             </div>
             <h2 className={feedStyles['feed__item-title']}>
               <Link className={feedStyles['feed__item-title-link']} to='/category/india'>Notes from India</Link>
             </h2>
-            <p className={feedStyles['feed__item-description']}>28 posts from my trip to India in Summer - Fall of 2014.</p>
+            <p className={feedStyles['feed__item-description']}>After college I spent three months wandering around northern India. I turned my stray observations into this collection of essays.</p>
             <Link className={feedStyles['feed__item-readmore']} to='/category/india'>View</Link>
           </div>
 

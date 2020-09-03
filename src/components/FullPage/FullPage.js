@@ -41,7 +41,7 @@ import { Link } from 'gatsby';
         <div ref={pageRef} className={styles['full-page']}>
             <div className={styles['full-page__header']}>
                 <div className={styles['full-page__header__home']}>
-                    <Link className={postStyles['post__home-button']} to="/">Home</Link>
+                    <Link className={postStyles['post__home-button']} to="/projects">Home</Link>
                 </div>
                 <div className={styles['full-page__header__title']}>
                     { props.title && <h1 className={styles['full-page__title']}>{props.title}</h1>}

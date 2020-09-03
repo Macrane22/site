@@ -1,0 +1,20 @@
+.container div {
+    height: 100%;
+}
+
+iframe {
+    height: 10000px !important;
+}
+
+.blob-wrapper.data {
+    max-height: 10000px;
+    overflow: auto;
+}
+
+.notebook {
+    /* height: 100%; */
+}
+
+.gist-meta {
+    display: none;
+}

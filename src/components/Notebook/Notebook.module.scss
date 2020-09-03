@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+}
+
+.left {
+    flex: 25%;
+}
+
+.right {
+    flex: 50%;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.right p {
+    padding-top: 40px;
+}
+
+.right a {
+    color: #1976d2;
+}

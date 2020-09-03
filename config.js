@@ -3,7 +3,7 @@
 module.exports = {
   url: 'http://www.crane.fyi',
   pathPrefix: '/',
-  title: 'Crane Thoughts',
+  title: 'Crane.fyi',
   subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -21,18 +21,22 @@ module.exports = {
       path: '/projects'
     },
     {
-      label: 'About me',
+      label: 'About me / Contact',
       path: '/pages/about'
     },
-    {
+/*     {
       label: 'Contact me',
       path: '/pages/contacts'
+    }, */
+    {
+      label: 'Resumé',
+      path: 'https://macrane22.github.io/resume/crane_matthew_resume.pdf'
     },
   ],
   author: {
     name: 'Matthew Crane',
     photo: '/me.png',
-    bio: 'Data Scientist',
+    bio: 'Bay Area Data Scientist',
     contacts: {
       email: '',
       facebook: '#',
