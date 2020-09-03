@@ -7,8 +7,6 @@ import ReactMarkdown from 'react-markdown';
 
 function createMarkup() {
 
-    console.log(html);
-
     return { __html: `
     <!DOCTYPE html>
 <html>
