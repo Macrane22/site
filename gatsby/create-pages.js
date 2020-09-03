@@ -48,11 +48,6 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/pages/headlines.js')
   });
 
-  createPage({
-    path: '/simple-network-analytics',
-    component: path.resolve('./src/pages/simple-network-analytics.js')
-  });
-
   createRedirect({
     fromPath: '/',
     toPath: '/projects', // doesn't seem to work
