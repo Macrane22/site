@@ -17,7 +17,6 @@ module.exports = {
     author: siteConfig.author
   },
   plugins: [
-    'gatsby-plugin-meta-redirect', // doesn't work
     {
       resolve: 'gatsby-source-filesystem',
       options: {
