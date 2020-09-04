@@ -12,10 +12,6 @@ module.exports = {
   useKatex: false,
   // ADD MENU ITEMS HERE
   menu: [
-    /* {
-      label: 'Articles',
-      path: '/'
-    }, */
     {
       label: 'Projects / Writing',
       path: '/projects'
@@ -24,10 +20,6 @@ module.exports = {
       label: 'About me / Contact',
       path: '/pages/about-me'
     },
-/*     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }, */
     {
       label: 'Resumé',
       path: 'https://macrane22.github.io/resume/crane_matthew_resume.pdf'
