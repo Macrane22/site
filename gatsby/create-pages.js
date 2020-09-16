@@ -48,12 +48,6 @@ const createPages = async ({ graphql, actions }) => {
     component: path.resolve('./src/pages/headlines.js')
   });
 
-  createRedirect({
-    fromPath: '/',
-    toPath: '/projects', // doesn't seem to work
-    isPermanent: true
-  });
-
   /* New page here */
   createPage({
     path: '/congress-polarization',
@@ -63,6 +57,12 @@ const createPages = async ({ graphql, actions }) => {
   createPage({
     path: '/comm_detection_comparison',
     component: path.resolve('./src/components/Notebook/Notebook2.js')
+  });
+
+  createRedirect({
+    fromPath: '/',
+    toPath: '/projects', // doesn't seem to work
+    isPermanent: true
   });
 
   // Posts and pages from markdown

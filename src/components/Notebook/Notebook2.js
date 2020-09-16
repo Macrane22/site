@@ -22,7 +22,7 @@ function createMarkup() {
     
     .matthew-wrapper {
     
-    width: 50% !important;
+    width: 60% !important;
     margin: 0 auto !important;
 }
     
@@ -15690,44 +15690,46 @@ a.anchor-link {
     </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
     <h2 id='comparison-summary'>VI. Comparison Summary</h2><h4 id="Consensus:-Nothing-as-good-as-Louvain-yet">Consensus: Nothing as good as Louvain yet<a class="anchor-link" href="#Consensus:-Nothing-as-good-as-Louvain-yet">&#182;</a></h4><p>The Louvain method is justifiably popular: It's fast, requires little or no tuning, and returns partitions of high modularity. None of the alternatives surveyed here can match it in any of these areas, let alone in all three (excluding EdMot for the moment, because in its current implementation appears to be identical to Louvain).</p>
     <p>Here's a rough marketing-inspired version of the results:</p>
-    <table style="width: 100%; font-size: 14px; padding-bottom: 20px">
-      <tr style="text-align: center;">
-        <th style="text-align: left;">Algorithm</th>
-        <th style="text-align: center;">Fast?</th>
-        <th style="text-align: center;">Easy to tune?</th>
-        <th style="text-align: center;">High modularity?</th>
-      </tr>
-      <tr>
-        <td style="text-align: left;">GEMSEC</td>
-        <td style="color: red; font-size: 20px; text-align: center;">X</td>
-        <td style="color: red; font-size: 20px; text-align: center;">X</td>
-        <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;">&#183;</td>
-      </tr>
-      <tr>
-        <td style="text-align: left;">Greedy Modularity</td>
-        <td style="color: red; font-size: 20px; text-align: center;">X</td>
-        <td style="color: #008000;  font-size: 20px; text-align: center;">&#10004;</td>
-        <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;">&#183;</td>
-      </tr>
-      <tr>
-        <td style="text-align: left;">Label Propagation</td>
-        <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;">&#183;</td>
-        <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;">&#183;</td>
-        <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;">&#183;</td>
-      </tr>
-      <tr>
-        <td style="text-align: left;">Louvain</td>
-        <td style="color: #008000;  font-size: 20px; text-align: center;">&#10004;</td>
-        <td style="color: #008000;  font-size: 20px; text-align: center;">&#10004;</td>
-        <td style="color: #008000;  font-size: 20px; text-align: center;">&#10004;</td>
-      </tr>
-      <tr>
-        <td style="text-align: left;">SCD</td>
-        <td style="color: red; font-size: 20px; text-align: center;">X</td>
-        <td style="color: red; font-size: 20px; text-align: center;">X</td>
-         <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;">&#183;</td>
-      </tr>
-    </table>
+
+    <table style="float: left; width: 100%; font-size: 14px;">
+  <tr style="text-align: center;">
+    <th style="text-align: left;">Algorithm</th>
+    <th style="text-align: center;">Fast?</th>
+    <th style="text-align: center;">Easy to tune?</th>
+    <th style="text-align: center;">High modularity?</th>
+  </tr>
+  <tr>
+    <td style="text-align: left;">GEMSEC</td>
+    <td style="color: red; font-size: 20px; text-align: center;"><b>X</b></td>
+    <td style="color: red; font-size: 20px; text-align: center;"><b>X</b></td>
+    <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;"><b>&#183;</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Greedy Modularity</td>
+    <td style="color: red; font-size: 20px; text-align: center;"><b>X</b></td>
+    <td style="text-align: center;"><span style="color: #008000;  font-size: 24px;"><b>&#10003;</b></span></td>
+    <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;"><b>&#183;</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Label Propagation</td>
+    <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;"><b>&#183;</b></td>
+    <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;"><b>&#183;</b></td>
+    <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;"><b>&#183;</b></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">Louvain</td>
+    <td style="text-align: center;"><span style="color: #008000;  font-size: 24px;"><b>&#10003;</b></span></td>
+    <td style="text-align: center;"><span style="color: #008000;  font-size: 24px;"><b>&#10003;</b></span></td>
+    <td style="text-align: center;"><span style="color: #008000;  font-size: 24px;"><b>&#10003;</b></span></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">SCD</td>
+    <td style="color: red; font-size: 20px; text-align: center;"><b>X</b></td>
+    <td style="color: red; font-size: 20px; text-align: center;"><b>X</b></td>
+    <td style="color: #FFCC00; font-size: 80px; text-align: center; padding: 0px; margin: 0px;"><b>&#183;</b></td>
+  </tr>
+</table>
+
     </div>
     </div>
     <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">

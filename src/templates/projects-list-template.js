@@ -42,7 +42,7 @@ const ProjectsListTemplate = () => {
             <h2 className={feedStyles['feed__item-title']}>
               <Link className={feedStyles['feed__item-title-link']} to='/congress-polarization'>Visualizing Congressional Polarization with Network Analysis</Link>
             </h2>
-            <p className={feedStyles['feed__item-description']}>I use bill cosponsorship data to analyze the partisan divide in the House of Representatives in the last 40 years. Written in a Jupyter notebook with Python, Markdown, and HTML.</p>
+            <p className={feedStyles['feed__item-description']}>I use bill cosponsorship data to analyze the partisan divide in the House of Representatives over the last 40 years. Written in a Jupyter notebook with Python, Markdown, and HTML.</p>
             <Link className={feedStyles['feed__item-readmore']} to='/congress-polarization'>View</Link>
          </div>
 
@@ -57,7 +57,7 @@ const ProjectsListTemplate = () => {
             <h2 className={feedStyles['feed__item-title']}>
               <Link className={feedStyles['feed__item-title-link']} to='/headlines'>Headlines of the World</Link>
             </h2>
-            <p className={feedStyles['feed__item-description']}>A first attempt at a news aggregator that displays headlines from countries around the world on an interactive map. Built with React, D3, and Python.</p>
+            <p className={feedStyles['feed__item-description']}>A first attempt at a simple news aggregator that displays headlines from countries around the world on an interactive map. Built with React, D3, and Python.</p>
             <Link className={feedStyles['feed__item-readmore']} to='/headlines'>View</Link>
          </div>
 
@@ -104,9 +104,6 @@ const ProjectsListTemplate = () => {
             <p className={feedStyles['feed__item-description']}>After college I spent three months wandering around northern India. I turned my stray observations into this collection of essays.</p>
             <Link className={feedStyles['feed__item-readmore']} to='/category/india'>View</Link>
           </div>
-
-
-
       </Page>
     </Layout>
   );

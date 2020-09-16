@@ -21,7 +21,7 @@ function createMarkup() {
 <style type="text/css">
 .matthew-wrapper {
     
-    width: 50% !important;
+    width: 60% !important;
     margin: 0 auto !important;
 }
     .highlight .hll { background-color: var(--jp-cell-editor-active-background) }

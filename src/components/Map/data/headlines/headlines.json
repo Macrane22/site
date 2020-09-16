@@ -1,1314 +1,980 @@
 [
     {
         "cca3": "ABW",
-        "country_name": "Aruba",
-        "publication": "Aruba Today",
-        "url": "www.arubatoday.com/",
-        "timestamp": "2020-07-15",
-        "headline": "\u201cIt was like revisiting Aruba when I wrote the book\u201d"
+        "url": "https://www.arubatoday.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Hilton Aruba donates more than 1000 volunteer hours at the local Food Bank"
     },
     {
         "cca3": "AFG",
-        "country_name": "Afghanistan",
-        "publication": "TOLOnews",
-        "url": "www.tolonews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Taliban Staged Attacks in 20 Provinces in Past Two Weeks: Reports"
+        "url": "https://tolonews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "No Ceasefire Until Cause of War is Discussed: Taliban Spokesman"
     },
     {
         "cca3": "AGO",
-        "country_name": "Angola",
-        "publication": "Angola Press",
-        "url": "www.angop.ao/angola/en_us/index.html",
-        "timestamp": "2020-07-15",
-        "headline": "Angolan President guarantees continuous execution of PIIM"
+        "url": "https://www.angop.ao/angola/en_us/index.html",
+        "timestamp": "2020-09-16",
+        "headline": "Businessman S\u00e3o Vicente interrogated by PGR"
     },
     {
         "cca3": "AIA",
-        "country_name": "Anguilla",
-        "publication": "The Anguillian",
-        "url": "www.theanguillian.com/",
-        "timestamp": "2020-07-15",
-        "headline": "ANGUILLA ELECTIONS 2020 \u2013 THANK YOU! Pam\u2019s Update \u2013 10th July 2020"
+        "url": "http://theanguillian.com/",
+        "timestamp": "2020-09-16",
+        "headline": "VVPS Hosts Special Back to School Welcome Ceremony"
     },
     {
         "cca3": "ALB",
-        "country_name": "Albania",
-        "publication": "Albanian Daily News",
-        "url": "www.albaniandailynews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Govt Urged to Draft New Support Package"
+        "url": "https://albaniandailynews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "PM: Sea Issue to Be Resolved through Mediation"
     },
     {
         "cca3": "AND",
-        "country_name": "Andorra",
-        "publication": "All Andorra",
-        "url": "www.all-andorra.com/",
-        "timestamp": "2020-07-15",
-        "headline": "University of the Basque Country: A blue spark to shine on the origin of the Universe"
+        "url": "https://all-andorra.com/",
+        "timestamp": "2020-09-16",
+        "headline": "European Mobility Week 2020 will take place 16-22 September"
     },
     {
         "cca3": "ARE",
-        "country_name": "United Arab Emirates",
-        "publication": "Khaleej Times",
-        "url": "www.khaleejtimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "UAE reports 275 new Covid-19 cases, 393 recoveries"
+        "url": "https://www.khaleejtimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "When will we get a Covid-19 vaccine, who will get it first?"
     },
     {
         "cca3": "ARG",
-        "country_name": "Argentina",
-        "publication": null,
-        "url": "www.batimes.com.ar/",
-        "timestamp": "2020-07-15",
-        "headline": "Federal judge Rodolfo Canicoba Corral confirms resignation"
+        "url": "https://www.batimes.com.ar/",
+        "timestamp": "2020-09-16",
+        "headline": "INDEC says inflation in August reached 2.7%"
+    },
+    {
+        "cca3": "ARM",
+        "url": "https://armenpress.am/eng/",
+        "timestamp": "2020-09-16",
+        "headline": "Sarkissian felicitates Obrador on Mexico\u2019s Independence Day"
     },
     {
         "cca3": "ASM",
-        "country_name": "American Samoa",
-        "publication": null,
-        "url": "www.samoanews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Pasifika film-makers looking to shine at Wh\u0101nau M\u0101rama"
+        "url": "https://samoanews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Sailing Association medalists photo & caption"
     },
     {
         "cca3": "ATG",
-        "country_name": "Antigua and Barbuda",
-        "publication": null,
-        "url": "www.antiguaobserver.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Too early to seek outside help with Customs inspector murder \u2013 AG"
+        "url": "https://antiguaobserver.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Loss of musical legends ignites calls for calypsonians\u2019 hall of fame"
     },
     {
         "cca3": "AUS",
-        "country_name": "Australia",
-        "publication": null,
-        "url": "www.smh.com.au/",
-        "timestamp": "2020-07-15",
-        "headline": "Sydney hotel coronavirus cases became infectious within a day"
+        "url": "https://www.smh.com.au/",
+        "timestamp": "2020-09-16",
+        "headline": "PM says don't expect hotspot clarity soon; Victoria records lowest daily tally in almost three months"
     },
     {
         "cca3": "AUT",
-        "country_name": "Austria",
-        "publication": null,
-        "url": "www.viennatimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Armenia-Azerbaijan border fighting escalates; 16 killed"
+        "url": "http://www.viennatimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Austria expels Russian diplomat, Moscow responds in kind"
     },
     {
         "cca3": "AZE",
-        "country_name": "Azerbaijan",
-        "publication": null,
-        "url": "www.azernews.az/",
-        "timestamp": "2020-07-15",
-        "headline": "Ilham Aliyev chaires Cabinet meeting on results of socio-economic development in first quarter of 2020 [PHOTO]"
+        "url": "https://www.azernews.az/",
+        "timestamp": "2020-09-16",
+        "headline": "Turkish venture fund opens representative office in Azerbaijan [PHOTO]"
     },
     {
         "cca3": "BDI",
-        "country_name": "Burundi",
-        "publication": null,
-        "url": "www.iwacu-burundi.org/englishnews/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.iwacu-burundi.org/englishnews/",
+        "timestamp": "2020-09-16",
         "headline": "Economic expert urges government to establish half-year plan for change"
     },
     {
         "cca3": "BEL",
-        "country_name": "Belgium",
-        "publication": null,
-        "url": "www.brusselstimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Malta and Norway become \u2018green zones\u2019 for Belgians..."
+        "url": "https://www.brusselstimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Covid-19 offences have yielded \u20ac6 million in fines..."
     },
     {
         "cca3": "BGD",
-        "country_name": "Bangladesh",
-        "publication": null,
-        "url": "www.thehindu.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Malini Parthasarathy appointed Chairperson of The Hindu Group Publishing Private Limited"
+        "url": "https://www.thehindu.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Russia inks pact to test, supply Sputnik V vaccine to India"
     },
     {
         "cca3": "BGR",
-        "country_name": "Bulgaria",
-        "publication": null,
-        "url": "www.sofiaglobe.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Covid-19: Bulgaria drops 14-day quarantine requirement for arrivals from UK"
+        "url": "https://sofiaglobe.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Bulgaria raises 2.5 billion euro with two long-term bond issues"
     },
     {
         "cca3": "BHR",
-        "country_name": "Bahrain",
-        "publication": null,
-        "url": "www.gulfnews.com/world/gulf/bahrain",
-        "timestamp": "2020-07-15",
-        "headline": "Bahrain's Gulf Air tells staff to slim down"
+        "url": "https://gulfnews.com/world/gulf/bahrain",
+        "timestamp": "2020-09-16",
+        "headline": "Bahrain sentences 3 fugitives in Iran to life in prison"
     },
     {
         "cca3": "BHS",
-        "country_name": "Bahamas",
-        "publication": null,
-        "url": "www.thenassauguardian.com/",
-        "timestamp": "2020-07-15",
-        "headline": "U.S. trips caused COVID-19 spike"
+        "url": "https://thenassauguardian.com/",
+        "timestamp": "2020-09-16",
+        "headline": "PLP will not attend House today"
     },
     {
         "cca3": "BIH",
-        "country_name": "Bosnia and Herzegovina",
-        "publication": null,
-        "url": "www.sarajevotimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Exhumation from the Mass Grave started, Information given by a Bosnian Serb"
+        "url": "https://www.sarajevotimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "BiH Council of Ministers has approved the Procurement of Coronavirus Vaccines"
     },
     {
         "cca3": "BLR",
-        "country_name": "Belarus",
-        "publication": null,
-        "url": "eng.belta.by/",
-        "timestamp": "2020-07-15",
-        "headline": "20:25\n\nMFA invites international observers to monitor Belarus presidential election\nPolitics"
+        "url": "https://eng.belta.by/",
+        "timestamp": "2020-09-16",
+        "headline": "16.09.20\n19:57\n\nBelarus, Russia to discuss progress in dropping roaming charges\nSociety"
     },
     {
         "cca3": "BLZ",
-        "country_name": "Belize",
-        "publication": null,
-        "url": "www.amandala.com.bz/news/",
-        "timestamp": "2020-07-15",
+        "url": "https://amandala.com.bz/news/",
+        "timestamp": "2020-09-16",
         "headline": "The total number of confirmed cases of COVID-19 in Belize now stands at 18"
     },
     {
         "cca3": "BMU",
-        "country_name": "Bermuda",
-        "publication": null,
-        "url": "www.royalgazette.com/",
-        "timestamp": "2020-07-15",
-        "headline": "More seeking help for addiction"
+        "url": "http://www.royalgazette.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Picking up after Paulette"
     },
     {
         "cca3": "BRA",
-        "country_name": "Brazil",
-        "publication": null,
-        "url": "www.riotimesonline.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Rio Samba Schools Announce They Will Only Parade Once Vaccine is Available"
+        "url": "https://riotimesonline.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Is Buying Essays Online Safe and Legal?"
     },
     {
         "cca3": "BRB",
-        "country_name": "Barbados",
-        "publication": null,
-        "url": "www.loopnewsbarbados.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Smooth Common Entrance at Deighton Griffith according to officials"
+        "url": "http://www.loopnewsbarbados.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Barbados to become a Republic and name more National Heroes"
     },
     {
         "cca3": "BRN",
-        "country_name": "Brunei",
-        "publication": null,
-        "url": "www.bruneinews.net/",
-        "timestamp": "2020-07-15",
-        "headline": "All personnel accounted for after explosion and fire on U.S. warship"
+        "url": "https://www.bruneinews.net/",
+        "timestamp": "2020-09-16",
+        "headline": "LPGA Tour's Asia schedule wiped out as last 2 events fall to virus"
     },
     {
         "cca3": "BTN",
-        "country_name": "Bhutan",
-        "publication": null,
-        "url": "bbs.bt/news/",
-        "timestamp": "2020-07-15",
-        "headline": "Members of the private sector express their gratitude to His Majesty The KingRead More..."
+        "url": "http://www.bbs.bt/news/",
+        "timestamp": "2020-09-16",
+        "headline": "Lunana: A Yak in the Classroom gets an official entry into the 93rd Academy AwardsRead More..."
     },
     {
         "cca3": "BWA",
-        "country_name": "Botswana",
-        "publication": null,
-        "url": "www.thepatriot.co.bw/",
-        "timestamp": "2020-07-15",
-        "headline": "BPF recruit new members"
+        "url": "http://www.thepatriot.co.bw/",
+        "timestamp": "2020-09-16",
+        "headline": "Ramogapi denies BPF link"
     },
     {
         "cca3": "CAN",
-        "country_name": "Canada",
-        "publication": null,
-        "url": "www.cbc.ca/news/canada",
-        "timestamp": "2020-07-15",
-        "headline": "Canada's largest school board considers eliminating French as it plans for safe return in fall"
+        "url": "https://www.cbc.ca/news/canada",
+        "timestamp": "2020-09-16",
+        "headline": "School custodians strive to keep COVID out. But here's what they do when there's an outbreak"
     },
     {
         "cca3": "CHE",
-        "country_name": "Switzerland",
-        "publication": null,
-        "url": "www.swissinfo.ch/eng/latest-news",
-        "timestamp": "2020-07-15",
-        "headline": "Switzerland exported half a billion francs worth of arms in six months"
-    },
-    {
-        "cca3": "CHL",
-        "country_name": "Chile",
-        "publication": null,
-        "url": "www.santiagotimes.cl/",
-        "timestamp": "2020-07-15",
-        "headline": "Latin America death toll from coronavirus now exceeds North America"
+        "url": "https://www.swissinfo.ch/eng/latest-news",
+        "timestamp": "2020-09-16",
+        "headline": "Red Cross faces Covid-related job cuts in Geneva"
     },
     {
         "cca3": "CHN",
-        "country_name": "China",
-        "publication": null,
-        "url": "www.chinadaily.com.cn/index.html",
-        "timestamp": "2020-07-15",
-        "headline": "Xi calls for solidarity in fighting novel coronavirus"
+        "url": "https://www.chinadaily.com.cn/index.html",
+        "timestamp": "2020-09-16",
+        "headline": "Xi congratulates Suga on election as Japan's prime minister"
     },
     {
         "cca3": "CMR",
-        "country_name": "Cameroon",
-        "publication": null,
-        "url": "www.journalducameroun.com/en/",
-        "timestamp": "2020-07-15",
-        "headline": "Cameroon: Detained Anglophone journalist drags military spokesperson to court"
+        "url": "https://www.journalducameroun.com/en/",
+        "timestamp": "2020-09-16",
+        "headline": "Cameroon: CPDM requests authorisation to stage anti Kamto protest"
     },
     {
         "cca3": "COK",
-        "country_name": "Cook Islands",
-        "publication": null,
-        "url": "www.cookislandsnews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Keeping warm and cosy in winter"
+        "url": "http://www.cookislandsnews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Putting their differences aside"
     },
     {
         "cca3": "COL",
-        "country_name": "Colombia",
-        "publication": null,
-        "url": "www.colombiareports.com/",
-        "timestamp": "2020-07-15",
-        "headline": "COVID-19 in Colombia: Medellin announces weekly lockdowns to prevent healthcare collapse"
+        "url": "https://colombiareports.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Colombia\u2019s capital begins reconciliation process to overcome state terrorism trauma"
     },
     {
         "cca3": "CRI",
-        "country_name": "Costa Rica",
-        "publication": null,
-        "url": "www.ticotimes.net/",
-        "timestamp": "2020-07-15",
-        "headline": "Costa Rica still plans August airport reopening, Health Ministry says"
+        "url": "https://ticotimes.net/",
+        "timestamp": "2020-09-16",
+        "headline": "Equine serum tested in COVID-19 patients at 18 Argentine health centers"
     },
     {
         "cca3": "CUB",
-        "country_name": "Cuba",
-        "publication": null,
-        "url": "www.oncubanews.com/en/",
-        "timestamp": "2020-07-15",
-        "headline": "U.S.: First COVID-19 vaccine shows encouraging results"
+        "url": "https://oncubanews.com/en/",
+        "timestamp": "2020-09-16",
+        "headline": "Cuban enterprises will receive tax benefits for increased exports"
     },
     {
         "cca3": "CUW",
-        "country_name": "Cura\u00e7ao",
-        "publication": null,
-        "url": "www.curacaochronicle.com/home/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.curacaochronicle.com/home/",
+        "timestamp": "2020-09-16",
         "headline": "Cura\u00e7ao starts registering migrants via food packages"
     },
     {
         "cca3": "CYM",
-        "country_name": "Cayman Islands",
-        "publication": null,
-        "url": "www.caymancompass.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Where can I buy a copy of the Compass newspaper?"
+        "url": "https://www.caymancompass.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Divers come to aid of imperiled coral"
     },
     {
         "cca3": "CYP",
-        "country_name": "Cyprus",
-        "publication": null,
-        "url": "www.cyprus-mail.com/category/cyprus/",
-        "timestamp": "2020-07-15",
-        "headline": "Coronavirus: North allows UK visitors from Thursday"
+        "url": "https://cyprus-mail.com/category/cyprus/",
+        "timestamp": "2020-09-16",
+        "headline": "Agriculture ministry pledges to support carob production"
     },
     {
         "cca3": "CZE",
-        "country_name": "Czechia",
-        "publication": null,
-        "url": "www.praguemonitor.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Does the Polish election signal a conservative or illiberal shift in central Europe?"
+        "url": "http://praguemonitor.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Former mine in North Bohemia filled to create country's largest pit lake"
     },
     {
         "cca3": "DEU",
-        "country_name": "Germany",
-        "publication": null,
-        "url": "www.zeit.de/english/index",
-        "timestamp": "2020-07-15",
-        "headline": "Besuchen Sie zeit.de wie gewohnt mit Werbung und Tracking. Details zu Werbe- und Trackingverfahren finden Sie\n                        hier."
+        "url": "https://www.zeit.de/english/index",
+        "timestamp": "2020-09-16",
+        "headline": "Besuchen Sie zeit.de wie gewohnt mit Werbung und Tracking. Details zum Tracking finden Sie in der \n                                Datenschutzerkl\u00e4rung\n                                 und im \n                                Privacy Center."
     },
     {
         "cca3": "DMA",
-        "country_name": "Dominica",
-        "publication": null,
-        "url": "www.dominicanewsonline.com/news/",
-        "timestamp": "2020-07-15",
-        "headline": "China commits to resume preparation works on international airport for Dominica \u2013 Ambassador LU Kun"
+        "url": "https://dominicanewsonline.com/news/",
+        "timestamp": "2020-09-16",
+        "headline": "Dominican youth reelected to Caribbean Young Democrat Union"
     },
     {
         "cca3": "DNK",
-        "country_name": "Denmark",
-        "publication": null,
-        "url": "www.cphpost.dk/",
-        "timestamp": "2020-07-15",
-        "headline": "Ja: Mette Frederiksen finally gets married"
+        "url": "http://cphpost.dk/",
+        "timestamp": "2020-09-16",
+        "headline": "International Round-Up: Denmark letting down child refugees"
     },
     {
         "cca3": "DOM",
-        "country_name": "Dominican Republic",
-        "publication": null,
-        "url": "www.dominicantoday.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Reasons why Danilo Medina requests a new state of emergency for 45 days in Dominican Republic"
+        "url": "https://dominicantoday.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Former Dominican President Danilo Medina declares assets of 25 million pesos"
     },
     {
         "cca3": "ECU",
-        "country_name": "Ecuador",
-        "publication": null,
-        "url": "www.ecuadortimes.net/",
-        "timestamp": "2020-07-15",
-        "headline": "Banana producers analyze stoppage of activities"
+        "url": "https://www.ecuadortimes.net/",
+        "timestamp": "2020-09-16",
+        "headline": "These are the digital services for which the SRI will begin to charge VAT"
     },
     {
         "cca3": "EGY",
-        "country_name": "Egypt",
-        "publication": null,
-        "url": "www.egypttoday.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Egypt records 913 coronavirus cases, 59 deaths as daily count keeps declining"
+        "url": "https://www.egypttoday.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Sisi renews warning of disinformation campaigns that seek to halt progress, \u2018destroy state\u2019"
     },
     {
         "cca3": "ERI",
-        "country_name": "Eritrea",
-        "publication": null,
-        "url": "www.tesfanews.net/",
-        "timestamp": "2020-07-15",
-        "headline": "Backed into a Corner Over the Nile Dam, Egypt May Have No Choice but to Go to War"
+        "url": "https://www.tesfanews.net/",
+        "timestamp": "2020-09-16",
+        "headline": "Eritrea\u2019s Success Story in Renewable Energy Development"
     },
     {
         "cca3": "ESP",
-        "country_name": "Spain",
-        "publication": null,
-        "url": "www.english.elpais.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Spain releases more funds to fight Covid-19 as cases keep mounting"
+        "url": "https://english.elpais.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Chaos in Madrid, as regional government denies health chief\u2019s announcement of new lockdowns"
     },
     {
         "cca3": "EST",
-        "country_name": "Estonia",
-        "publication": null,
-        "url": "www.news.err.ee/",
-        "timestamp": "2020-07-15",
-        "headline": "PPA wants air guns and starter pistols to be painted pink or yellow"
+        "url": "https://news.err.ee/",
+        "timestamp": "2020-09-16",
+        "headline": "More coronavirus cases brought to Estonia from abroad"
     },
     {
         "cca3": "ETH",
-        "country_name": "Ethiopia",
-        "publication": null,
-        "url": "www.addisstandard.com/",
-        "timestamp": "2020-07-15",
-        "headline": "In-depth Analysis: Spate of targeted attacks, excessive use of force by security in Oromia leave death trails, destruction"
+        "url": "https://addisstandard.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Analysis: Weeks long attacks on civilians leave several dead, injured in Metekel zone, Benishangul Gumuz region"
     },
     {
         "cca3": "FIN",
-        "country_name": "Finland",
-        "publication": null,
-        "url": "www.helsinkitimes.fi/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.helsinkitimes.fi/",
+        "timestamp": "2020-09-16",
         "headline": "Covid-19 confirmed cases in Finland and other countries"
     },
     {
         "cca3": "FJI",
-        "country_name": "Fiji",
-        "publication": null,
-        "url": "www.fijitimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Sex abuse claims against church: Church leader seeks clemency from abuse victims, families"
+        "url": "http://fijitimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Nadi voted in as Top 10 Most Scenic Airports Worldwide"
     },
     {
         "cca3": "FRA",
-        "country_name": "France",
-        "publication": null,
-        "url": "www.france24.com/en/france/",
-        "timestamp": "2020-07-15",
-        "headline": "France 24 - International breaking news, top stories and headlines"
+        "url": "https://www.france24.com/en/france/",
+        "timestamp": "2020-09-16",
+        "headline": "French court rules transgender woman cannot be recognised as child\u2019s mother"
     },
     {
         "cca3": "FRO",
-        "country_name": "Faroe Islands",
-        "publication": null,
-        "url": "www.local.fo/",
-        "timestamp": "2020-07-15",
-        "headline": "COVID-19: More than 25.000 tests conducted in the Faroe Islands"
+        "url": "http://local.fo/",
+        "timestamp": "2020-09-16",
+        "headline": "Nine Atlantic Airways employees test positive for COVID-19: Employees will now be tested every day, CEO says"
     },
     {
         "cca3": "FSM",
-        "country_name": "Micronesia",
-        "publication": null,
-        "url": "www.kpress.info/",
-        "timestamp": "2020-07-15",
+        "url": "http://www.kpress.info/",
+        "timestamp": "2020-09-16",
         "headline": "President amends decree on commercial fishing vessels to prevent  COVID-19 risk"
     },
     {
         "cca3": "GBR",
-        "country_name": "United Kingdom",
-        "publication": null,
-        "url": "www.thetimes.co.uk/",
-        "timestamp": "2020-07-15",
-        "headline": "Success of early trials raises hopes of vaccine"
+        "url": "https://www.thetimes.co.uk/",
+        "timestamp": "2020-09-16",
+        "headline": "Is it really frozen?"
     },
     {
         "cca3": "GEO",
-        "country_name": "Georgia",
-        "publication": null,
-        "url": "www.georgiatoday.ge/",
-        "timestamp": "2020-07-15",
-        "headline": "President: Group Violence is Unacceptable, Un-Georgian"
+        "url": "http://georgiatoday.ge/",
+        "timestamp": "2020-09-16",
+        "headline": "No State of Emergency or Lockdown Planned in Georgia, Including in Batumi"
     },
     {
         "cca3": "GGY",
-        "country_name": "Guernsey",
-        "publication": null,
-        "url": "www.guernseypress.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Care home was not using PPE when Covid-19 hit"
+        "url": "https://guernseypress.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Developers steer clear of affordable housing"
     },
     {
         "cca3": "GHA",
-        "country_name": "Ghana",
-        "publication": null,
-        "url": "www.ghanaweb.com/",
-        "timestamp": "2020-07-15",
-        "headline": "6 busted over GH\u00a246.1 million bank fraud"
+        "url": "https://www.ghanaweb.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Manasseh\u2019s folder: Why Prof. Benneh\u2019s killers may not be found"
     },
     {
         "cca3": "GIB",
-        "country_name": "Gibraltar",
-        "publication": null,
-        "url": "www.chronicle.gi/",
-        "timestamp": "2020-07-15",
-        "headline": "Compulsory masks and one-way systems herald new normal for air travel"
+        "url": "https://www.chronicle.gi/",
+        "timestamp": "2020-09-16",
+        "headline": "Spain seeks \u2018shared prosperity\u2019 with Gib, but will \u2018never\u2019 renounce sovereignty goal"
     },
     {
         "cca3": "GMB",
-        "country_name": "Gambia",
-        "publication": null,
-        "url": "www.standard.gm/",
-        "timestamp": "2020-07-15",
-        "headline": "Covid-19 frontline workers\u2019 strike causes chaos"
+        "url": "https://standard.gm/",
+        "timestamp": "2020-09-16",
+        "headline": "Liverpool identify Colley as potential Lovren replacement"
     },
     {
         "cca3": "GNQ",
-        "country_name": "Equatorial Guinea",
-        "publication": null,
-        "url": "www.guineaecuatorialpress.com/?lang=en",
-        "timestamp": "2020-07-15",
-        "headline": "France and Equatorial Guinea congratulate each other on good relations"
+        "url": "https://www.guineaecuatorialpress.com/?lang=en",
+        "timestamp": "2020-09-16",
+        "headline": "Vice-President receives Ambassador from Federal Republic of Nigeria"
     },
     {
         "cca3": "GRC",
-        "country_name": "Greece",
-        "publication": null,
-        "url": "www.ekathimerini.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Strong interest in investing"
+        "url": "https://www.ekathimerini.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Commission: Turkish Navtex off Cyprus will 'fuel further tensions' in East Med"
     },
     {
         "cca3": "GRD",
-        "country_name": "Grenada",
-        "publication": null,
-        "url": "www.thegrenadainformer.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Virtual Carnival City To Be Powered\u2026"
+        "url": "https://www.thegrenadainformer.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Huggins clears the air: No access t\u2026"
     },
     {
         "cca3": "GUM",
-        "country_name": "Guam",
-        "publication": null,
-        "url": "www.postguam.com/news/local/",
-        "timestamp": "2020-07-15",
-        "headline": "International Women's Club donates to Palau Women's Club"
+        "url": "https://www.postguam.com/news/local/",
+        "timestamp": "2020-09-16",
+        "headline": "30th COVID-19 related fatality reported"
     },
     {
         "cca3": "GUY",
-        "country_name": "Guyana",
-        "publication": null,
-        "url": "www.stabroeknews.com/news/guyana/",
-        "timestamp": "2020-07-15",
-        "headline": "Canada says to hold accountable all those preventing transparent conclusion to electoral process"
+        "url": "https://www.stabroeknews.com/news/guyana/",
+        "timestamp": "2020-09-16",
+        "headline": "Account was open for accused Ponzi scheme operator to retrieve monies \u2013 Police"
     },
     {
         "cca3": "HKG",
-        "country_name": "Hong Kong",
-        "publication": null,
-        "url": "www.scmp.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Beijing should change tack on South China Sea to avoid US clash: analyst"
+        "url": "https://www.scmp.com/",
+        "timestamp": "2020-09-16",
+        "headline": "China urged to flex long-arm jurisdiction to protect firms overseas"
     },
     {
         "cca3": "HND",
-        "country_name": "Honduras",
-        "publication": null,
-        "url": "www.hondurasnews.com/",
-        "timestamp": "2020-07-15",
+        "url": "http://www.hondurasnews.com/",
+        "timestamp": "2020-09-16",
         "headline": "Official list of the 23 players representing Honduras in the 2019 Gold Cup \u2013 Honduras National Team Soccer"
     },
     {
         "cca3": "HRV",
-        "country_name": "Croatia",
-        "publication": null,
-        "url": "www.thedubrovniktimes.com/news/croatia",
-        "timestamp": "2020-07-15",
-        "headline": "Coronavirus Croatia \u2013 92 new cases of Covid-19 in Croatia as measures tighten"
+        "url": "https://www.thedubrovniktimes.com/news/croatia",
+        "timestamp": "2020-09-16",
+        "headline": "Ther Croatian National Tourist Board says ''Thank you'' to all the foreign tourists that visited Croatia this year"
     },
     {
         "cca3": "HTI",
-        "country_name": "Haiti",
-        "publication": null,
-        "url": "www.haitilibre.com/en/",
-        "timestamp": "2020-07-15",
-        "headline": "iciHaiti - Covid-19 : The neglectful population"
+        "url": "https://www.haitilibre.com/en/",
+        "timestamp": "2020-09-16",
+        "headline": "iciHaiti - NOTICE : AAPE denies a fuel shortage"
     },
     {
         "cca3": "HUN",
-        "country_name": "Hungary",
-        "publication": null,
-        "url": "www.dailynewshungary.com/",
-        "timestamp": "2020-07-15",
-        "headline": "EU, India pledge to strengthen ties"
+        "url": "https://dailynewshungary.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Fidesz MEP: Time for EU to end \u2018cold war\u2019 against member states"
     },
     {
         "cca3": "IDN",
-        "country_name": "Indonesia",
-        "publication": null,
-        "url": "www.en.antaranews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Jakarta's Cathedral to reopen for Sunday, daily mass"
+        "url": "https://en.antaranews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "COVID-19 red zones decline to 41 from 70: task force"
     },
     {
         "cca3": "IMN",
-        "country_name": "Isle of Man",
-        "publication": null,
-        "url": "www.iomtoday.co.im/",
-        "timestamp": "2020-07-15",
-        "headline": "Alf Cannan meets his scarecrow lookalike"
+        "url": "http://www.iomtoday.co.im/",
+        "timestamp": "2020-09-16",
+        "headline": "'As long as you can get to the pub'"
     },
     {
         "cca3": "IND",
-        "country_name": "India",
-        "publication": null,
-        "url": "www.thehindu.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Malini Parthasarathy appointed Chairperson of The Hindu Group Publishing Private Limited"
+        "url": "https://www.thehindu.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Russia inks pact to test, supply Sputnik V vaccine to India"
     },
     {
         "cca3": "IRL",
-        "country_name": "Ireland",
-        "publication": null,
-        "url": "www.irishtimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Europe has lost Apple battle, but the war is far from over"
+        "url": "https://www.irishtimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Newton Emerson: Brussels is threatening the North's food supply"
     },
     {
         "cca3": "IRN",
-        "country_name": "Iran",
-        "publication": null,
-        "url": "www.irannewsdaily.com/",
-        "timestamp": "2020-07-15",
-        "headline": "President: Unity, Cooperation Needed for Resolving Economic Problems"
+        "url": "https://irannewsdaily.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Iran Voices Readiness to Help Afghanistan Peace Process"
     },
     {
         "cca3": "IRQ",
-        "country_name": "Iraq",
-        "publication": null,
-        "url": "www.iraqinews.com/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.iraqinews.com/",
+        "timestamp": "2020-09-16",
         "headline": "Iraq declares three-day mourning period after deadly protests"
     },
     {
         "cca3": "ISL",
-        "country_name": "Iceland",
-        "publication": null,
-        "url": "www.icelandmonitor.mbl.is/news/latest/",
-        "timestamp": "2020-07-15",
-        "headline": "Visitors from six countries exempt from Covid-19 testing requirement"
+        "url": "https://icelandmonitor.mbl.is/news/latest/",
+        "timestamp": "2020-09-16",
+        "headline": "Earthquake in North Iceland Leaves People Shaken"
     },
     {
         "cca3": "ISR",
-        "country_name": "Israel",
-        "publication": null,
-        "url": "www.haaretz.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Netanyahu Deploys Trump\u2019s Antifa Tactics in an Effort to Undermine Escalating Protests"
+        "url": "https://www.haaretz.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Netanyahu\u2019s Split Screen: Peace, Rockets, Coronavirus Carnage and Trump\u2019s Meshugas"
     },
     {
         "cca3": "ITA",
-        "country_name": "Italy",
-        "publication": null,
-        "url": "www.ansa.it/english/",
-        "timestamp": "2020-07-15",
-        "headline": "Benetton set to quit ASPI as it becomes public company"
+        "url": "https://www.ansa.it/english/",
+        "timestamp": "2020-09-16",
+        "headline": "Italy registers 1,452 new COVID-19 cases, 12 more deaths"
     },
     {
         "cca3": "JAM",
-        "country_name": "Jamaica",
-        "publication": null,
-        "url": "www.jamaica-gleaner.com/",
-        "timestamp": "2020-07-15",
-        "headline": "High-ranking JCF and JDF officers given authorisation to access real-time interception communications"
+        "url": "http://jamaica-gleaner.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Opening up economies too fast in pandemic dangerous, says PAHO director"
     },
     {
         "cca3": "JEY",
-        "country_name": "Jersey",
-        "publication": null,
-        "url": "www.bailiwickexpress.com/jsy/news/",
-        "timestamp": "2020-07-15",
-        "headline": "Government aiming to avoid forced land sales for hospital"
+        "url": "https://www.bailiwickexpress.com/jsy/news/",
+        "timestamp": "2020-09-16",
+        "headline": "Covid \u201can excuse\u201d to end chronic swelling treatment\t\t\t\t\t\t\t\t\t\t\t\t\tWednesday 16 September 2020"
     },
     {
         "cca3": "JOR",
-        "country_name": "Jordan",
-        "publication": null,
-        "url": "www.jordantimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Livestock merchants hope for Eid Al Adha upswing"
+        "url": "https://www.jordantimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "King congratulates newly-elected Japan PM"
     },
     {
         "cca3": "JPN",
-        "country_name": "Japan",
-        "publication": null,
-        "url": "www.mainichi.jp/english/",
-        "timestamp": "2020-07-15",
-        "headline": "Please view the main text area of the page by skipping the main menu."
+        "url": "https://mainichi.jp/english/",
+        "timestamp": "2020-09-16",
+        "headline": "Suga becomes Japan PM, forms continuity Cabinet as Abe era ends"
     },
     {
         "cca3": "KAZ",
-        "country_name": "Kazakhstan",
-        "publication": null,
-        "url": "www.astanatimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Mare\u2019s Milk Use to Boost Immunity Increases Amid Pandemic in Kazakhstan"
+        "url": "https://astanatimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Memorial to Honor Soviet Soldiers Who Died in WWII to Be Built in Croatia"
     },
     {
         "cca3": "KEN",
-        "country_name": "Kenya",
-        "publication": null,
-        "url": "www.nation.co.ke/",
-        "timestamp": "2020-07-15",
-        "headline": "MPs approve Gathungu for auditor's post"
+        "url": "https://www.nation.co.ke/",
+        "timestamp": "2020-09-16",
+        "headline": "Sudi detained for seven more days"
     },
     {
         "cca3": "KGZ",
-        "country_name": "Kyrgyzstan",
-        "publication": null,
-        "url": "en.kabar.kg/",
-        "timestamp": "2020-07-15",
-        "headline": "Jeenbekov chairs meeting to discuss epidemiological situation in country"
+        "url": "http://en.kabar.kg/",
+        "timestamp": "2020-09-16",
+        "headline": "Kyrgyzstan reports 73 new COVID-19 cases"
     },
     {
         "cca3": "KHM",
-        "country_name": "Cambodia",
-        "publication": null,
-        "url": "www.phnompenhpost.com/",
-        "timestamp": "2020-07-15",
-        "headline": "ADB says Kingdom to lose 390,000 jobs"
+        "url": "https://www.phnompenhpost.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Tourists urged not to skip trip"
     },
     {
         "cca3": "KIR",
-        "country_name": "Kiribati",
-        "publication": null,
-        "url": "www.kiribatiupdates.com.ki/",
-        "timestamp": "2020-07-15",
+        "url": "https://kiribatiupdates.com.ki/",
+        "timestamp": "2020-09-16",
         "headline": "Kiribati national election begins today."
     },
     {
         "cca3": "KNA",
-        "country_name": "Saint Kitts and Nevis",
-        "publication": null,
-        "url": "www.thestkittsnevisobserver.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Land Registry upgraded, lists almost 6,000 parcels"
+        "url": "https://www.thestkittsnevisobserver.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Nevis Public Library moved to temporary downtown Charlestown location"
     },
     {
         "cca3": "KOR",
-        "country_name": "South Korea",
-        "publication": null,
-        "url": "english.chosun.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Koreans Get 66 Days off Next Year"
+        "url": "http://english.chosun.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Koreans Spend More Money Than Ever Just Servicing Debt"
+    },
+    {
+        "cca3": "LAO",
+        "url": "https://laotiantimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Man Admits to Embezzling Funds for Gambling Addiction"
     },
     {
         "cca3": "LBN",
-        "country_name": "Lebanon",
-        "publication": null,
-        "url": "www.naharnet.com/",
-        "timestamp": "2020-07-15",
-        "headline": "The United States on Wednesday cleared the way for sanctions on employees of telecom giant Huawei, expanding its pressure ..."
+        "url": "http://www.naharnet.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Geagea Says Foiling French Initiative would be a 'Crime'"
     },
     {
         "cca3": "LBR",
-        "country_name": "Liberia",
-        "publication": null,
-        "url": "www.liberianobserver.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Farmers Depleting Gio National Forest"
+        "url": "https://www.liberianobserver.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Lonestar Cell MTN Continues Network Expansion to Remote Towns and Villages"
     },
     {
         "cca3": "LBY",
-        "country_name": "Libya",
-        "publication": null,
-        "url": "www.libyaobserver.ly/",
-        "timestamp": "2020-07-15",
-        "headline": "Haftar's Russian, Sudanese mercenaries seen heading to Libya's east, GNA says"
+        "url": "https://www.libyaobserver.ly/",
+        "timestamp": "2020-09-16",
+        "headline": "Italy rejects blackmail over release of nationals detained in Benghazi"
     },
     {
         "cca3": "LCA",
-        "country_name": "Saint Lucia",
-        "publication": null,
-        "url": "www.thevoiceslu.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Saint Lucia\u2019s Economic Recovery and Resilience Plan Focuses on Stimulating the Economy"
+        "url": "https://www.thevoiceslu.com/",
+        "timestamp": "2020-09-16",
+        "headline": "131 OECS teachers are now certified in specialized reading instruction!"
     },
     {
         "cca3": "LIE",
-        "country_name": "Liechtenstein",
-        "publication": null,
-        "url": "www.liechtenstein.li/en/liechtenstein-news/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.liechtenstein.li/en/liechtenstein-news/",
+        "timestamp": "2020-09-16",
         "headline": "Did you know that..."
     },
     {
         "cca3": "LKA",
-        "country_name": "Sri Lanka",
-        "publication": null,
-        "url": "www.dailymirror.lk/",
-        "timestamp": "2020-07-15",
-        "headline": "Not necessary to impose curfew: Health DG"
+        "url": "http://www.dailymirror.lk/",
+        "timestamp": "2020-09-16",
+        "headline": "Delhi Court convicts ex-regional manager Srilankan Airlines"
     },
     {
         "cca3": "LSO",
-        "country_name": "Lesotho",
-        "publication": null,
-        "url": "www.lestimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Judge urges govt to clampdown social media"
+        "url": "http://lestimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "LNDB delivers 50 heifers to dairy farmers"
     },
     {
         "cca3": "LTU",
-        "country_name": "Lithuania",
-        "publication": null,
-        "url": "www.en.delfi.lt/",
-        "timestamp": "2020-07-15",
-        "headline": "Nauseda: increased US military presence in Poland to benefit whole region"
+        "url": "https://en.delfi.lt/",
+        "timestamp": "2020-09-16",
+        "headline": "Lithuania to facilitate visa issuance for Belarusians next week"
     },
     {
         "cca3": "LUX",
-        "country_name": "Luxembourg",
-        "publication": null,
-        "url": "www.luxtimes.lu/",
-        "timestamp": "2020-07-15",
-        "headline": "Spotting a secretive bird in Luxembourg's vanishing nature"
+        "url": "https://luxtimes.lu/",
+        "timestamp": "2020-09-16",
+        "headline": "Bikes, pedestrians have new path into Luxembourg's centre"
     },
     {
         "cca3": "LVA",
-        "country_name": "Latvia",
-        "publication": null,
-        "url": "eng.lsm.lv/",
-        "timestamp": "2020-07-15",
-        "headline": "Latvian government approves penalties for quarantine rule-breakers"
+        "url": "https://eng.lsm.lv/",
+        "timestamp": "2020-09-16",
+        "headline": "Latvian IT industry awaits Belarusians with mixed feelings"
     },
     {
         "cca3": "MAC",
-        "country_name": "Macau",
-        "publication": null,
-        "url": "www.macaudailytimes.com.mo/",
-        "timestamp": "2020-07-15",
-        "headline": "Virus test booking system disrupted after Zhuhai border announcement"
+        "url": "https://macaudailytimes.com.mo/",
+        "timestamp": "2020-09-16",
+        "headline": "Fate of new Zone D to be decided by the public"
     },
     {
         "cca3": "MAF",
-        "country_name": "Saint Martin",
-        "publication": null,
-        "url": "www.thedailyherald.sx/",
-        "timestamp": "2020-07-15",
-        "headline": "Changes to travel and health protocols available next week"
+        "url": "https://www.thedailyherald.sx/",
+        "timestamp": "2020-09-16",
+        "headline": "\u00a9 2020 The Daily Herald. All Rights Reserved."
     },
     {
         "cca3": "MAR",
-        "country_name": "Morocco",
-        "publication": null,
-        "url": "www.moroccoworldnews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "1,200 Stranded Moroccan Seasonal Workers to Return to Morocco from Huelva Saturday"
+        "url": "https://www.moroccoworldnews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Mohamed Alami Berrada\u2019s \u2018Le Maroc a Venir\u2019 Calls for More Moroccan Youth Involvement"
     },
     {
         "cca3": "MCO",
-        "country_name": "Monaco",
-        "publication": null,
-        "url": "www.monaco-tribune.com/en/",
-        "timestamp": "2020-07-15",
-        "headline": "AS Monaco loanee Gil Dias making steady progress with Granada"
+        "url": "https://www.monaco-tribune.com/en/",
+        "timestamp": "2020-09-16",
+        "headline": "Analysis: Sofiane Diop Shines Brightly in Nantes win"
     },
     {
         "cca3": "MDA",
-        "country_name": "Moldova",
-        "publication": null,
-        "url": "www.moldpres.md/en/",
-        "timestamp": "2020-07-15",
-        "headline": "Moldovan cabinet approves allocation of one-off support worth 700 lei for about 660,000 beneficiaries"
+        "url": "https://www.moldpres.md/en/",
+        "timestamp": "2020-09-16",
+        "headline": "More physicians receive state distinctions in Moldova"
     },
     {
         "cca3": "MDV",
-        "country_name": "Maldives",
-        "publication": null,
-        "url": "en.sun.mv/",
-        "timestamp": "2020-07-15",
-        "headline": "'Hope is to shape a state that supports victims'"
+        "url": "https://en.sun.mv/",
+        "timestamp": "2020-09-16",
+        "headline": "NDMA defends COVID-19 accommodation arrangements"
     },
     {
         "cca3": "MEX",
-        "country_name": "Mexico",
-        "publication": null,
-        "url": "www.mexiconewsdaily.com/",
-        "timestamp": "2020-07-15",
-        "headline": "New coronavirus cases exceed 7,000 in one day for the second time"
+        "url": "https://mexiconewsdaily.com/",
+        "timestamp": "2020-09-16",
+        "headline": "OECD lowers its 2020 Mexico growth forecast to -10.2% from June\u2019s -7.5%"
     },
     {
         "cca3": "MHL",
-        "country_name": "Marshall Islands",
-        "publication": null,
-        "url": "www.marshallislandsjournal.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Perfect storm hits US Marshallese"
+        "url": "https://marshallislandsjournal.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Singing to teach language"
     },
     {
         "cca3": "MLT",
-        "country_name": "Malta",
-        "publication": null,
-        "url": "www.maltatoday.com.mt/",
-        "timestamp": "2020-07-15",
-        "headline": "Anti-corruption body reform presented in parliament by government"
+        "url": "https://www.maltatoday.com.mt/",
+        "timestamp": "2020-09-16",
+        "headline": "Record 106 COVID-19 cases registered overnight, with increase in elderly home clusters"
     },
     {
         "cca3": "MMR",
-        "country_name": "Myanmar",
-        "publication": null,
-        "url": "www.mmtimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Myanmar borrowing set to grow as fiscal deficit widens"
+        "url": "https://www.mmtimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "6000 Myanmar migrants arrested on Thai border"
     },
     {
         "cca3": "MNG",
-        "country_name": "Mongolia",
-        "publication": null,
-        "url": "www.montsame.mn/en/",
-        "timestamp": "2020-07-15",
+        "url": "https://montsame.mn/en/",
+        "timestamp": "2020-09-16",
         "headline": "Photos tell a history"
     },
     {
         "cca3": "MWI",
-        "country_name": "Malawi",
-        "publication": null,
-        "url": "www.nyasatimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Malawi establishes national Covid-19 office to spearhead fight against virus pandemic"
+        "url": "https://www.nyasatimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "First son Nic Chakwera delves into abortion debate: \u2018People with no right to life\u2019"
     },
     {
         "cca3": "MYS",
-        "country_name": "Malaysia",
-        "publication": null,
-        "url": "www.nst.com.my/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.nst.com.my/",
+        "timestamp": "2020-09-16",
         "headline": "Opinion\n\n\nColumnists\n\n\nLetters\n\n\nLeader"
     },
     {
         "cca3": "NAM",
-        "country_name": "Namibia",
-        "publication": null,
-        "url": "www.amibian.com.na/",
-        "timestamp": "2020-07-15",
-        "headline": "Lombard welcomes football return"
+        "url": "https://www.namibian.com.na/",
+        "timestamp": "2020-09-16",
+        "headline": "Maxwell and Carey hit hundreds as Australia clinch ODI series win over England"
     },
     {
         "cca3": "NGA",
-        "country_name": "Nigeria",
-        "publication": null,
-        "url": "www.vanguardngr.com/",
-        "timestamp": "2020-07-15",
-        "headline": "[UPDATED] How NAF\u2019s first female combat helicopter pilot died"
+        "url": "https://www.vanguardngr.com/",
+        "timestamp": "2020-09-16",
+        "headline": "We\u2019re the most prosperous black nation in the world \u2015 Buhari boasts"
     },
     {
         "cca3": "NLD",
-        "country_name": "Netherlands",
-        "publication": null,
-        "url": "www.dutchnews.nl/",
-        "timestamp": "2020-07-15",
-        "headline": "Hugo de Jonge wins leadership of the CDA"
+        "url": "https://www.dutchnews.nl/",
+        "timestamp": "2020-09-16",
+        "headline": "Corona testing system close to gridlock as infections rise, microbiologist warns"
     },
     {
         "cca3": "NOR",
-        "country_name": "Norway",
-        "publication": null,
-        "url": "www.tnp.no/",
-        "timestamp": "2020-07-15",
-        "headline": "Norway Introduces Quarantine Free Travel to 15 Countries"
+        "url": "https://www.tnp.no/",
+        "timestamp": "2020-09-16",
+        "headline": "Norway to send medical team to Greece"
     },
     {
         "cca3": "NPL",
-        "country_name": "Nepal",
-        "publication": null,
-        "url": "www.thehimalayantimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Kathmandu's Covid-19 tally hits 365 on Wednesday"
+        "url": "https://thehimalayantimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "No post-death COVID-19 testing even if it is a suspected case: Health Ministry"
     },
     {
         "cca3": "NRU",
-        "country_name": "Nauru",
-        "publication": null,
-        "url": "www.nauru-news.com/",
-        "timestamp": "2020-07-15",
-        "headline": "President Aingimea continues as USP council chair, BDO report released to members"
+        "url": "http://nauru-news.com/",
+        "timestamp": "2020-09-16",
+        "headline": "USP special council meeting resolves to terminate proceedings against VCP"
     },
     {
         "cca3": "NZL",
-        "country_name": "New Zealand",
-        "publication": null,
-        "url": "www.nzherald.co.nz/",
-        "timestamp": "2020-07-15",
-        "headline": "Watch: John Key helps son Max snap up $1.4m Mt Albert villa"
+        "url": "https://www.nzherald.co.nz/",
+        "timestamp": "2020-09-16",
+        "headline": "Students rip down 'covert' camera outside boys' toilet"
     },
     {
         "cca3": "OMN",
-        "country_name": "Oman",
-        "publication": null,
-        "url": "www.timesofoman.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Going digital in COVID-19 times"
+        "url": "https://timesofoman.com/",
+        "timestamp": "2020-09-16",
+        "headline": "International Space Station crosses over northern skies in Oman"
     },
     {
         "cca3": "PAK",
-        "country_name": "Pakistan",
-        "publication": null,
-        "url": "www.dawn.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Russian scientists hail results of Covid-19 vaccine trial"
+        "url": "https://www.dawn.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Israeli jets bomb Gaza after rocket fire clouds peace deal signing"
     },
     {
         "cca3": "PAN",
-        "country_name": "Panama",
-        "publication": null,
-        "url": "www.panamatoday.com/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.panamatoday.com/",
+        "timestamp": "2020-09-16",
         "headline": "The elected president of Panama, Laurentino Cortizo, said that \"the country needs peace\""
     },
     {
         "cca3": "PER",
-        "country_name": "Peru",
-        "publication": null,
-        "url": "www.peruviantimes.com/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.peruviantimes.com/",
+        "timestamp": "2020-09-16",
         "headline": "Spain approves extradition of Justice Hinostroza, for crimes within Peru\u2019s court system"
     },
     {
         "cca3": "PHL",
-        "country_name": "Philippines",
-        "publication": null,
-        "url": "www.inquirer.net/",
-        "timestamp": "2020-07-15",
-        "headline": "Schools will be inspected first if face-to-face classes will be allowed \u2013 Galvez"
+        "url": "https://www.inquirer.net/",
+        "timestamp": "2020-09-16",
+        "headline": "Tropical Storm Leon exits PAR, isolated rain showers due"
     },
     {
         "cca3": "PLW",
-        "country_name": "Palau",
-        "publication": null,
-        "url": "www.palaugov.pw/news/",
-        "timestamp": "2020-07-15",
-        "headline": "False Rumors of Individuals Violating Quarantine"
+        "url": "https://www.palaugov.pw/news/",
+        "timestamp": "2020-09-16",
+        "headline": "Updates to the U.S. Secretary of Defense Mark Esper\u2019s Visit to Palau"
     },
     {
         "cca3": "PNG",
-        "country_name": "Papua New Guinea",
-        "publication": null,
-        "url": "www.postcourier.com.pg/",
-        "timestamp": "2020-07-15",
-        "headline": "Accounts  committee  issues stern warning"
+        "url": "https://postcourier.com.pg/",
+        "timestamp": "2020-09-16",
+        "headline": "Sir Michael: We have overcome doubts and come this far"
     },
     {
         "cca3": "POL",
-        "country_name": "Poland",
-        "publication": null,
-        "url": "www.polskieradio.pl/395",
-        "timestamp": "2020-07-15",
-        "headline": "Competition for memoirs linked to 1920 Polish victory over Bolsheviks"
+        "url": "https://www.polskieradio.pl/395",
+        "timestamp": "2020-09-16",
+        "headline": "Pole among scientists who detected potential sign of life on Venus"
     },
     {
         "cca3": "PRT",
-        "country_name": "Portugal",
-        "publication": null,
-        "url": "www.theportugalnews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "DGS says there is no evidence that cured people could be reinfected"
+        "url": "https://www.theportugalnews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Brits among 19 suspected traffickers arrested in Algarve"
     },
     {
         "cca3": "PSE",
-        "country_name": "Palestine",
-        "publication": null,
-        "url": "english.pnn.ps/",
-        "timestamp": "2020-07-15",
-        "headline": "\u2018Sick of His Corruption\u2019: Thousands of Israelis urge Netanyahu to resign"
+        "url": "http://english.pnn.ps/",
+        "timestamp": "2020-09-16",
+        "headline": "Israel approves construction of nearly 1,000 new settler units in West Bank"
     },
     {
         "cca3": "QAT",
-        "country_name": "Qatar",
-        "publication": null,
-        "url": "www.thepeninsulaqatar.com/",
-        "timestamp": "2020-07-15",
-        "headline": "UDC enters into financing agreement for developing villas complexes in Floresta Gardens"
+        "url": "https://thepeninsulaqatar.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Qatar extends incentives for private sector affected by Covid-19 pandemic"
     },
     {
         "cca3": "ROU",
-        "country_name": "Romania",
-        "publication": null,
-        "url": "www.romaniajournal.ro/",
-        "timestamp": "2020-07-15",
-        "headline": "President: The situation is serious, the state of alert to be extended by 30 more days"
+        "url": "https://www.romaniajournal.ro/",
+        "timestamp": "2020-09-16",
+        "headline": "Iohannis calls on Diaspora to register for postal vote. What did he say about COVID-19 and the school start?"
     },
     {
         "cca3": "RUS",
-        "country_name": "Russia",
-        "publication": null,
-        "url": "www.themoscowtimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "U.S. Opens Way for Tougher Sanctions on Russia-Germany Gas Pipeline"
+        "url": "https://www.themoscowtimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Berlin Hospital Treating Navalny Returns Donation to 'Putin's Chef'"
     },
     {
         "cca3": "RWA",
-        "country_name": "Rwanda",
-        "publication": null,
-        "url": "www.newtimes.co.rw/",
-        "timestamp": "2020-07-15",
-        "headline": "Weather agency predicts strong winds in Southern Rwanda"
+        "url": "https://www.newtimes.co.rw/",
+        "timestamp": "2020-09-16",
+        "headline": "Terror suspect Mudathiru disowns  his co-accused on hostage claims"
     },
     {
         "cca3": "SAU",
-        "country_name": "Saudi Arabia",
-        "publication": null,
-        "url": "www.saudigazette.com.sa/",
-        "timestamp": "2020-07-15",
-        "headline": "Decline in Saudi corona cases continues"
+        "url": "https://saudigazette.com.sa/",
+        "timestamp": "2020-09-16",
+        "headline": "UN chief: COVID-19 vaccine must be affordable and available to all"
     },
     {
         "cca3": "SDN",
-        "country_name": "Sudan",
-        "publication": null,
-        "url": "www.sudantribune.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Mediation postpones initialling Sudan-armed groups peace deal"
+        "url": "https://www.sudantribune.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Security services seize huge amount of explosives circulating in Sudan"
     },
     {
         "cca3": "SGP",
-        "country_name": "Singapore",
-        "publication": null,
-        "url": "www.straitstimes.com/global",
-        "timestamp": "2020-07-15",
+        "url": "https://www.straitstimes.com/global",
+        "timestamp": "2020-09-16",
         "headline": "Bringing you reports from across the region"
     },
     {
         "cca3": "SLB",
-        "country_name": "Solomon Islands",
-        "publication": null,
-        "url": "www.solomontimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Superbug Tests Returned Negative"
+        "url": "https://www.solomontimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Opposition Leader Slams PM and DCGA Over Philippines Student\u2019s Ordeal"
     },
     {
         "cca3": "SLE",
-        "country_name": "Sierra Leone",
-        "publication": null,
-        "url": "www.thesierraleonetelegraph.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Sierra Leone Telegraph celebrates ten successful golden years"
+        "url": "https://www.thesierraleonetelegraph.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Sierra Leonean blues and jazz singer and guitarist \u2013 Bai Kamara nominated in US Blues Blast Music Award"
     },
     {
         "cca3": "SRB",
-        "country_name": "Serbia",
-        "publication": null,
-        "url": "www.b92.net/eng/",
-        "timestamp": "2020-07-15",
-        "headline": "Kon: Then it is better to introduce curfew, Belgrade is now a dominant potential bomb"
+        "url": "https://www.b92.net/eng/",
+        "timestamp": "2020-09-16",
+        "headline": "What will be the first topic in Brussels tomorrow?"
     },
     {
         "cca3": "SVK",
-        "country_name": "Slovakia",
-        "publication": null,
-        "url": "www.spectator.sme.sk/",
-        "timestamp": "2020-07-15",
-        "headline": "Memorial to trace back the steps of Jewish children hiding from the Nazis"
+        "url": "https://spectator.sme.sk/",
+        "timestamp": "2020-09-16",
+        "headline": "From resigned observers to truth-demanders. How Slovaks have changed in one decade"
     },
     {
         "cca3": "SVN",
-        "country_name": "Slovenia",
-        "publication": null,
-        "url": "www.sloveniatimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Media reform continues to raise dust"
+        "url": "http://www.sloveniatimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Slovenia should be smart in spending EU funds, debate hears"
     },
     {
         "cca3": "SWE",
-        "country_name": "Sweden",
-        "publication": null,
-        "url": "www.thelocal.se/",
-        "timestamp": "2020-07-15",
+        "url": "https://www.thelocal.se/",
+        "timestamp": "2020-09-16",
         "headline": "Learn about Project Shield"
     },
     {
         "cca3": "SWZ",
-        "country_name": "Eswatini",
-        "publication": null,
-        "url": "www.times.co.sz/",
-        "timestamp": "2020-07-15",
+        "url": "http://www.times.co.sz/",
+        "timestamp": "2020-09-16",
         "headline": "POOR WILL SUFFER FROM PRICE GOUGING"
     },
     {
         "cca3": "THA",
-        "country_name": "Thailand",
-        "publication": null,
-        "url": "www.bangkokpost.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Repositioning the region in the Asian Century"
+        "url": "https://www.bangkokpost.com/",
+        "timestamp": "2020-09-16",
+        "headline": "'Boss' debacle damages govt"
     },
     {
         "cca3": "TJK",
-        "country_name": "Tajikistan",
-        "publication": null,
-        "url": "www.asiaplustj.info/en",
-        "timestamp": "2020-07-15",
-        "headline": "Mudslides cause damage to villages in Asht and Isfara districts"
+        "url": "https://asiaplustj.info/en",
+        "timestamp": "2020-09-16",
+        "headline": "Almost 30 flights per week: Tajikistan will increase the number of charters from Russia"
     },
     {
         "cca3": "TKM",
-        "country_name": "Turkmenistan",
-        "publication": null,
-        "url": "en.turkmen.news/",
-        "timestamp": "2020-07-15",
-        "headline": "Expensive Watches Becoming De Rigueur For Turkmen President\u2019s Relatives"
+        "url": "https://en.turkmen.news/",
+        "timestamp": "2020-09-16",
+        "headline": "COVID-19 Claims Lives of Leading Turkmen Doctors"
     },
     {
         "cca3": "TUN",
-        "country_name": "Tunisia",
-        "publication": null,
-        "url": "www.tap.info.tn/en/",
-        "timestamp": "2020-07-15",
-        "headline": "ennahdha shura council endorses option of voting no confidence in fakhfakh"
+        "url": "https://www.tap.info.tn/en/",
+        "timestamp": "2020-09-16",
+        "headline": "(TAP) - Bilateral cooperation and the issue of looted money were the focus of a..."
     },
     {
         "cca3": "TUR",
-        "country_name": "Turkey",
-        "publication": null,
-        "url": "www.hurriyetdailynews.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Erdo\u011fan urges unity for \u2018strong Turkey\u2019"
+        "url": "https://www.hurriyetdailynews.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Observation point in Idlib attacked by civilian-looking groups: Ministry"
     },
     {
         "cca3": "TWN",
-        "country_name": "Taiwan",
-        "publication": null,
-        "url": "www.taipeitimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Vouchers keep post offices on their toes"
+        "url": "https://www.taipeitimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Coalition to push US trade deal"
     },
     {
         "cca3": "TZA",
-        "country_name": "Tanzania",
-        "publication": null,
-        "url": "www.thecitizen.co.tz/",
-        "timestamp": "2020-07-15",
-        "headline": "Makonda succeeded as Dar es Salaam Regional Commissioner"
+        "url": "https://www.thecitizen.co.tz/",
+        "timestamp": "2020-09-16",
+        "headline": "Why Kenya lost Uganda crude oil pipeline deal to Tanzania"
     },
     {
         "cca3": "UGA",
-        "country_name": "Uganda",
-        "publication": null,
-        "url": "www.monitor.co.ug/",
-        "timestamp": "2020-07-15",
-        "headline": "Mulago hospital tells govt to lift lockdown"
+        "url": "https://www.monitor.co.ug/",
+        "timestamp": "2020-09-16",
+        "headline": "Why ex-minister Nantaba shunned NRM primaries"
     },
     {
         "cca3": "UKR",
-        "country_name": "Ukraine",
-        "publication": null,
-        "url": "www.kyivpost.com/",
-        "timestamp": "2020-07-15",
-        "headline": "State Property Fund head sees \u2018window of opportunity\u2019"
+        "url": "https://www.kyivpost.com/",
+        "timestamp": "2020-09-16",
+        "headline": "France\u2019s ambassador to Ukraine sees change in mood in just 1 year"
     },
     {
         "cca3": "USA",
-        "country_name": "United States",
-        "publication": null,
-        "url": "www.wsj.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Walmart to Require Shoppers to Wear Masks in All U.S. Stores"
+        "url": "https://www.wsj.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Fed Sets Higher Hurdles for Rate Increase"
     },
     {
         "cca3": "UZB",
-        "country_name": "Uzbekistan",
-        "publication": null,
-        "url": "www.kun.uz/en",
-        "timestamp": "2020-07-15",
-        "headline": "Volkswagen begins car production in Uzbekistan"
+        "url": "https://kun.uz/en",
+        "timestamp": "2020-09-16",
+        "headline": "Uzbekistan\u2019s gold and foreign exchange reserves exceed $34 billion"
     },
     {
         "cca3": "VAT",
-        "country_name": "Vatican City",
-        "publication": null,
-        "url": "www.vaticannews.va/en.html",
-        "timestamp": "2020-07-15",
-        "headline": "Lourdes to host first online world pilgrimage"
+        "url": "https://www.vaticannews.va/en.html",
+        "timestamp": "2020-09-16",
+        "headline": "Pope calls murdered priest a witness of charity"
     },
     {
         "cca3": "VNM",
-        "country_name": "Vietnam",
-        "publication": null,
-        "url": "www.vietnamnews.vn/",
-        "timestamp": "2020-07-15",
-        "headline": "Deputy PM urges building multi-dimensional poverty standards for 2021-25"
-    },
-    {
-        "cca3": "VUT",
-        "country_name": "Vanuatu",
-        "publication": null,
-        "url": "www.dailypost.vu/",
-        "timestamp": "2020-07-15",
-        "headline": "Illegal Plants Smuggled from Australia"
+        "url": "https://vietnamnews.vn/",
+        "timestamp": "2020-09-16",
+        "headline": "Steering committee set up to promote financial inclusion"
     },
     {
         "cca3": "ZAF",
-        "country_name": "South Africa",
-        "publication": null,
-        "url": "www.timeslive.co.za/",
-        "timestamp": "2020-07-15",
-        "headline": "'Cyril is not God!\u2019 - South Africans react to second alcohol ban"
+        "url": "https://www.timeslive.co.za/",
+        "timestamp": "2020-09-16",
+        "headline": "Gatherings, eased curfew and international travel: SA to move to lockdown level ..."
     },
     {
         "cca3": "ZMB",
-        "country_name": "Zambia",
-        "publication": null,
-        "url": "www.lusakatimes.com/",
-        "timestamp": "2020-07-15",
-        "headline": "The Fate of the 23 Teachers Dismissed on Account of Alleged..."
+        "url": "https://www.lusakatimes.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Zambian breweries hosts engagement with artists in cancellation of Mosi DOT collabo edition 2020"
     },
     {
         "cca3": "ZWE",
-        "country_name": "Zimbabwe",
-        "publication": null,
-        "url": "www.newzimbabwe.com/",
-        "timestamp": "2020-07-15",
-        "headline": "UN Troubled By ED\u2019s Reliance On Army To Quell Peaceful Protests"
-    },
-    {
-        "cca3": "B30",
-        "country_name": "Somaliland",
-        "publication": null,
-        "url": "www.somalilandsun.com/",
-        "timestamp": "2020-07-15",
-        "headline": "Somaliland: \u201cI commend the two Clans for Responding to the calls\u2026"
+        "url": "https://www.newzimbabwe.com/",
+        "timestamp": "2020-09-16",
+        "headline": "Take lead in confronting your govt, says Malema to Zim youths"
     }
 ]
